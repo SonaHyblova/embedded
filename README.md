@@ -8,3 +8,5 @@ DOCUMENTS:
 ~ Minutes: 
 
 ~ Decision-list:
+
+~ Rubric: https://docs.google.com/spreadsheets/d/1h4T5HOgUR3qERWS3lT6XtTm1C4jyVNS7FJErgq7LLEw/edit?usp=sharing
